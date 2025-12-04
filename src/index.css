@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-padding-top: 85px;
+  }
+  body {
+    @apply bg-dark-950 text-slate-300 antialiased selection:bg-industrial-500 selection:text-white overflow-x-hidden;
+  }
+}
