@@ -1,13 +1,8 @@
 import { 
-  Wrench, 
   Zap, 
   ShieldCheck, 
   Briefcase, 
-  GraduationCap,
-  Settings,
-  Flame,
-  Activity,
-  Award
+  Settings
 } from 'lucide-react';
 import { ExperienceItem, ServiceItem, PortfolioItem, TestimonialItem, AchievementItem } from './types';
 
