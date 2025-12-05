@@ -17,14 +17,14 @@ export const NAV_LINKS = [
 export const CV_LINK = "https://drive.google.com/"; // Placeholder for actual CV link
 
 export const ASSETS = {
-  LOGO: "/assets/logo.png",
-  HERO_BG: "/assets/hero-bg.jpg",
-  PROFILE: "/assets/profile.jpg",
+  LOGO: "https://drive.google.com/thumbnail?id=1_4YdBSTXdz0K7BJoB6II4MHMFGUnjolv&sz=w1000",
+  HERO_BG: "https://drive.google.com/thumbnail?id=1Mec2DfWajzDKwFrOBr3t4dwp5BXx6-MK&sz=w1000",
+  PROFILE: "https://drive.google.com/thumbnail?id=1_H3_dOl2E4BlCT1fBaXrLjuK5e0xsROA&sz=w1000",
   TESTIMONIALS: [
-    "/assets/client-1.jpg",
-    "/assets/client-2.jpg",
-    "/assets/client-3.jpg",
-    "/assets/client-4.jpg"
+    "https://images.unsplash.com/photo-1531384441138-2736e62e0919?q=80&w=200&h=200&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1506277886164-e25aa3f4ef7f?q=80&w=200&h=200&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1589156280159-27698a70f29e?q=80&w=200&h=200&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=200&h=200&auto=format&fit=crop"
   ]
 };
 
